@@ -17,7 +17,7 @@ To install, for the Mac users, go to the terminal and:
 
 **4th step** - Select on the menu Sublime Text 2 > Preferences > Color Scheme > custom-themes > sendoushi-monokai
 
-This installation process is for **Sublime Text 2**, haven't tried it on the 3 yet.
+This installation process is for **Sublime Text 2** and doesn't work in Sublime Text 3, it has a different way to do themes. 
 
 You may also just download, go manually to the **Packages** folder and get the sendoushi-monokai file inside.
 
