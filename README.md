@@ -1,7 +1,7 @@
 Sublime Themes
 ==============
 
-I loved the basic Monokai theme from Sublime, which by the way is awesome, but there were some colors that I would prefer to be different.
+I love the basic Monokai theme from Sublime but there were some colors that I would prefer to be different.
 
 Just made some adjustments and now I'm publishing for all those that want to use it.
 
