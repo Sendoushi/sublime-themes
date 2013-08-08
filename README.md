@@ -5,8 +5,7 @@ I loved the basic Monokai theme from Sublime, which by the way is awesome, but t
 
 Just made some adjustments and now I'm publishing for all those that want to use it.
 
-Here is a screenshot of it:
-![image](https://github.com/Sendoushi/sendoushi-sublime-themes/blob/master/screen.png)
+![image](http://arena.sendoushi.com/gitimgs/screen.png)
 
 To install, for the Mac users, go to the terminal and:
 
