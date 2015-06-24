@@ -11,6 +11,7 @@ To install, for the Mac users, go to the terminal and:
 
 **1st step** - `cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/`
 
+
 **2nd step** - `git clone https://github.com/Sendoushi/sublime-themes custom-themes`
 
 **3rd step** - Open Sublime Text
