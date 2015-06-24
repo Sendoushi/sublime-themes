@@ -5,12 +5,11 @@ I love the basic Monokai theme from Sublime but there were some colors that I wo
 
 Just made some adjustments and now I'm publishing for all those that want to use it.
 
-![image](http://arena.sendoushi.com/gitimgs/screen.png)
+To install, go to the terminal and:
 
-To install, for the Mac users, go to the terminal and:
+**1st step (MAC users)** - `cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/`
 
-**1st step** - `cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/`
-
+**1st step (linux users)** - `cd ~/Applications/sublime_text_2/Packages/`
 
 **2nd step** - `git clone https://github.com/Sendoushi/sublime-themes custom-themes`
 
