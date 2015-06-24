@@ -11,7 +11,7 @@ To install, go to the terminal and:
 
 **1st step (MAC users)** - `cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/`
 
-**1st step (linux users)** - `cd ~/Applications/sublime_text_2/Packages/`
+**1st step (Linux users)** - `cd ~/Applications/sublime_text_2/Packages/`
 
 **2nd step** - `git clone https://github.com/Sendoushi/sublime-themes custom-themes`
 
@@ -27,7 +27,8 @@ To install, go to the terminal and:
 
 **2st step (MAC users)** - `mv custom-themes/sendoushi-monokai-st3\ \(SL\).tmTheme ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/sendoushi-monokai-st3\ \(SL\).tmTheme`
 
-**1.5st step (linux users)** - `mkdir ~/Applications/sublime_text_3/Packages/User && mv custom-themes/sendoushi-monokai-st3\ \(SL\).tmTheme ~/Applications/sublime_text_3/Packages/User/sendoushi-monokai-st3\ \(SL\).tmTheme`
+**2st step (Linux users)** - `mkdir ~/Applications/sublime_text_3/Packages/User && mv custom-themes/sendoushi-monokai-st3\ \(SL\).tmTheme ~/Applications/sublime_text_3/Packages/User/sendoushi-monokai-st3\ \(SL\).tmTheme`
+Note: You may need to use sublime-package file instead.
 
 **3rd step** - Open Sublime Text
 
